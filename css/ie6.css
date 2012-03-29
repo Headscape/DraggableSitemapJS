@@ -1,0 +1,16 @@
+body { left: 0; right: 0;}
+body {background: #dfdfdf;}
+html, body {height: 100%;}
+
+#content {width: 950px; padding: 0 0 16px 0;}
+#content {z-index: 5 !important; margin-top: 0;}
+#content_left {padding: 0; left: -3px;}
+#content_right {padding: 0; left: 6px;}
+
+.page {background-image: none; margin-left: 10px; left: 0; padding-top: 16px; padding-bottom: 16px;}
+.page_inner {background-image: none;}
+.page_top, .page_bottom {display: none;}
+
+#sitemap_header {width: 100%;}
+
+#footer {margin-right:-3px;}
